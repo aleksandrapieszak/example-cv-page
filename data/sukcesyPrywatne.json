@@ -1,0 +1,37 @@
+{
+  "sukcesyPrywatne" : [
+    {
+    "name": "Rodzina",
+    "features": [
+      {
+        "name": "Moi bliscy to mój największy skarb",
+        "description": "Rodzice są moimi największymi kibicami i najlepszymi kumplami, młodsza siostra to super przyjaciółka, a od 2022 roku jestem szczęśliwym mężem!",
+        "imageSrc": "/static/love.jpg",
+        "imageAlt": "Maple organizer base with slots, supporting white polycarbonate trays of various sizes."
+      }
+    ]
+    },
+    {
+      "name": "Sportowiec!",
+      "features": [
+        {
+          "name": "Sport uczy pokory i wytrwałości",
+          "description": "Od dziecka udaje mi się podtrzymać moją pasje do sportu. A w 2019 roku zostałem IronManem!",
+          "imageSrc": "/static/ironman.jpg",
+          "imageAlt": "Walnut organizer base with pen, sticky note, phone, and bin trays, next to modular drink coaster attachment."
+        }
+      ]
+    },
+    {
+      "name": "Przyjaciele",
+      "features": [
+        {
+          "name": "Pewnych przyjaciół poznasz w niepewnych momentach",
+          "description": "Jest grupa ludzi, z którymi krocze przez życie. Z niektórymi poznałem się w pracy 10 lat temu. Podtrzymujemy te relacje i systematycznie się widujemy. To ważne bo jesteśmy dla siebie największymi krytykami, ale także motywatorami.",
+          "imageSrc": "/static/friends.jpg",
+          "imageAlt": "Walnut organizer base with white polycarbonate trays in the kitchen with various kitchen utensils."
+        }
+      ]
+    }
+  ]
+}

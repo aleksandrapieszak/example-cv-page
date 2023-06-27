@@ -1,0 +1,37 @@
+{
+"sukcesyZawodowe" : [
+  {
+    "name": "Praca z klientem",
+    "features": [
+      {
+        "name": "Nagroda za doskonałą obsługę klienta",
+        "description": "W czasie pracy jako kierownik w Kro Original, otrzymałam nagrodę za doskonałą obsługę klienta. Moje zaangażowanie w tworzenie pozytywnych relacji z klientami, umiejętność słuchania i doradzania przyczyniły się do wysokiej satysfakcji klientów. Ta nagroda była potwierdzeniem mojego zaangażowania w zapewnienie wyjątkowego doświadczenia zakupowego i zbudowanie lojalności wśród klientów.",
+        "imageSrc": "/static/leading_header.webp",
+        "imageAlt": "Maple organizer base with slots, supporting white polycarbonate trays of various sizes."
+      }
+    ]
+  },
+  {
+    "name": "Efektywność",
+    "features": [
+      {
+        "name": "Wdrożenie efektywnych procesów magazynowych",
+        "description": "Na stanowisku dyrektora w Decathlon, zidentyfikowałam obszary wymagające optymalizacji w procesach magazynowych. Pracując z zespołem, opracowaliśmy i wdrożyliśmy nowe procedury, które znacznie zwiększyły wydajność magazynu i zmniejszyły czas oczekiwania klientów na dostawę towarów. Dzięki temu udało nam się zwiększyć efektywność i poprawić obsługę klienta.",
+        "imageSrc": "/static/bmlogo.jpg",
+        "imageAlt": "Walnut organizer base with pen, sticky note, phone, and bin trays, next to modular drink coaster attachment."
+      }
+    ]
+  },
+  {
+    "name": "Wskaźniki EKO + HR",
+    "features": [
+      {
+        "name": "Zwiększenie sprzedaży o 20%",
+        "description": " Jako kierownik w jednym ze sklepów Decathlon, wprowadziłam nowe strategie sprzedażowe i działałem na rzecz doskonalenia obsługi klienta. Dzięki temu udało mi się osiągnąć wzrost sprzedaży o 20% w ciągu roku. Moje starania w kierowaniu zespołem, analiza danych rynkowych i dostosowanie asortymentu przyczyniły się do tego sukcesu.",
+        "imageSrc": "/static/podium2.jpg",
+        "imageAlt": "Walnut organizer base with white polycarbonate trays in the kitchen with various kitchen utensils."
+      }
+    ]
+  }
+]
+}
